@@ -4,15 +4,16 @@ This 3d Printing hole covers collections made using [FreeCAD](https://www.freeca
 
 ## hole-cover-threaded-10mmx18mm
 
-![hole-cover-threaded-10mmx18mm-1](images/hole-cover-threaded-10mmx18mm-1.png)
-![hole-cover-threaded-10mmx18mm-2](images/hole-cover-threaded-10mmx18mm-2.png)
-![hole-cover-threaded-10mmx18mm-3](images/hole-cover-threaded-10mmx18mm-3.png)
-![hole-cover-threaded-10mmx18mm-4](images/hole-cover-threaded-10mmx18mm-4.png)
-![hole-cover-threaded-10mmx18mm-5](images/hole-cover-threaded-10mmx18mm-5.png)
+![](images/hole-cover-threaded-10mmx18mm-1.png)
+![](images/hole-cover-threaded-10mmx18mm-2.png)
+![](images/hole-cover-threaded-10mmx18mm-3.png)
+![](images/hole-cover-threaded-10mmx18mm-4.png)
+![](images/hole-cover-threaded-10mmx18mm-5.png)
 
 ## hole-cover-ring-threaded-26mmx18mm
 
-![hole-cover-ring-threaded-26mmx18mm-1](images/hole-cover-ring-threaded-26mmx18mm-1.png)
+![](images/hole-cover-ring-threaded-26mmx18mm-1.png)
+![](images/hole-cover-ring-threaded-26mmx18mm-2.png)
 
 ## License
 
